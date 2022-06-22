@@ -1,0 +1,22 @@
+{
+  "name": "teste-lenscope",
+  "version": "1.0.0",
+  "description": "Teste Lenscope para vaga de Estágio em Desenvolvimento Web",
+  "main": "testLenscope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walter-Alipio/test-Lenscope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Walter-Alipio/test-Lenscope/issues"
+  },
+  "homepage": "https://github.com/Walter-Alipio/test-Lenscope#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
